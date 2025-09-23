@@ -95,10 +95,6 @@ Proyek ini menggunakan 4 dataset utama:
 
 ### BigQuery 📊
 Repository ini berisi:  
-- Folder `/sql` → script query  
-- Folder `/data` → hasil export CSV  
-
-Contoh file:  
 - `query_tabel_analisis.sql` → Query pembuatan tabel analisis  
 - `tabel_analisis.csv` → Hasil export tabel analisis  
 
