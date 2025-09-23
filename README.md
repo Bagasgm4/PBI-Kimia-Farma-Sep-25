@@ -115,7 +115,7 @@ Contoh file:
 ---
 
 ### Microsoft PowerPoint 📝  
-📄 `FinalTask_KimiaFarma_BDA.pptx`  
+📄 `FinalTask_KimiaFarma_BDA_Bagas Ghulam Maulana.pptx`  
 
 ---
 
