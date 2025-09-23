@@ -1,21 +1,22 @@
 # Project Based Internship - Kimia Farma Big Data Analytics x Rakamin Academy  
 
-## Table of Contents
-- [About Program](#about-program)  
-- [About Kimia Farma](#about-kimia-farma)  
-- [About Rakamin Academy](#about-rakamin-academy)  
-- [About Project](#about-project)  
-- [Objective](#objective)  
-- [Dataset](#dataset)  
-- [Tools](#tools)  
-- [Tasks](#tasks)  
-- [Results](#results)  
-  - [BigQuery](#bigquery)  
-  - [Google Looker Studio : Dashboard](#google-looker-studio--dashboard)  
-  - [YouTube](#youtube)  
-  - [Microsoft PowerPoint](#microsoft-powerpoint)  
-  - [GitHub Repository](#github-repository)  
-- [Let's Connect!](#lets-connect)  
+## 📑 Table of Contents
+- [About Program 📌](#about-program-)
+- [About Kimia Farma 🏥](#about-kimia-farma-)
+- [About Rakamin Academy 🎓](#about-rakamin-academy-)
+- [About Project 📊](#about-project-)
+- [Objective 🎯](#objective-)
+- [Dataset 📂](#dataset-)
+- [Tools 🛠️](#tools-)
+- [Tasks ✅](#tasks-)
+- [Results](#results)
+  - [BigQuery 📊](#bigquery-)
+  - [Google Looker Studio : Dashboard 📈](#google-looker-studio--dashboard-)
+  - [YouTube 🎥](#youtube-)
+  - [Microsoft PowerPoint 📝](#microsoft-powerpoint-)
+  - [GitHub Repository 📁](#github-repository-)
+- [Let's Connect! 🌐](#lets-connect-)
+
 
 ---
 
