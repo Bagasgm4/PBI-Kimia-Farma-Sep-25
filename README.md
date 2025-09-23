@@ -50,7 +50,8 @@ Rakamin menyediakan:
 ---
 
 ## About Project 📊
-Sebagai intern **Big Data Analytics**, kami menganalisis **kinerja bisnis Kimia Farma 2020–2023** dengan memanfa
+Sebagai intern **Big Data Analytics**, kami menganalisis **kinerja bisnis Kimia Farma 2020–2023** dengan memanfaatkan 4 file, yaitu file transaksi, file produk, file inventory, dan file branch. Tanpa analisis yang tepat, data ini sulit dimanfaatkan untuk melihat tren bisnis, menilai kinerja cabang, serta memahami profitabilitas di tiap wilayah. Karena itu, diperlukan business performance analysis yang dapat mendukung pengambilan keputusan strategis.
+
 
 ---
 
