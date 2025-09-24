@@ -107,7 +107,7 @@ Repository ini berisi:
 ---
 
 ### YouTube 🎥  
-🔗 [Tonton Presentasi](https://youtube.com/...)  
+🔗 [Tonton Presentasi](https://youtu.be/npIleUrTVpk)  
 
 ---
 
